@@ -26,5 +26,5 @@ By using Pygame library, the game handles graphics and controls. It was fun maki
 
 Reference:
 1. https://github.com/educ8s/Python-Tetris-Game-Pygame
-2. https://github.com/educ8s/Python-Tetris-Game-Pygame
+2. [https://github.com/educ8s/Python-Tetris-Game-Pygame]
 3. https://gist.github.com/timurbakibayev/1f683d34487362b0f36280989c80960c
